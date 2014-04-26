@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_global"
+        android:title="Multi Edit"/>
+    <item
+        android:id="@+id/action_all"
+        android:title="Enable All"/>
+    <item
+        android:id="@+id/action_none"
+        android:title="Disable All"/>
+    <item
+        android:id="@+id/action_export"
+        android:title="Export Settings"/>
+    <item
+        android:id="@+id/action_import"
+        android:title="Import Settings"/>
+
+</menu>
